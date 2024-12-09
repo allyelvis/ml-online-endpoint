@@ -1,0 +1,5 @@
+name: my-deployment
+endpoint_name: my-ml-endpoint
+model: azureml:your-model:1
+instance_type: Standard_DS3_v2
+instance_count: 1
